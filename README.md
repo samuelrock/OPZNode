@@ -1,6 +1,8 @@
 # Orange Pi Zero Asterisk Radio Node
 ## Instructions for installing AllStar node on Orange Pi
 
+![alt text](https://github.com/lejudd/OPZNode/raw/master/IMG_1979.JPG "OPZ Node")
+
 Install Armbian on SD Card
 ```
 - Win32 Disk Imager  
