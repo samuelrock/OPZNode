@@ -1,3 +1,7 @@
+This project was forked on 4-Jan-2019. I will be updating it shortly as I will start using the Orange Pi Zero for my builds.
+K5MOB
+
+
 # Orange Pi Zero Asterisk Radio Node
 ## Instructions for installing AllStar node on Orange Pi
 
